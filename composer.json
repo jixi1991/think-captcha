@@ -1,0 +1,16 @@
+{
+    "name": "stylecc/think-captcha",
+    "description": "captcha package for thinkphp5",
+    "authors": [
+        {
+            "name": "姬熙",
+            "email": "jixi1991@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "think\\captcha\\": "src/"
+        }
+    }
+}
